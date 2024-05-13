@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-> git clone https://github.com/your-username/real-estate-website.git
+> git clone https://github.com/Jabweli/react-real-estate-app.git
 
 Navigate into the project directory:
 
@@ -40,10 +40,10 @@ Open your browser and visit http://localhost:5173 to view the website.
 
 ## Usage
 
-Customize the content in the src directory to match your real estate agency's listings and agent profiles.
-Implement backend integration (if applicable) to fetch real-time property data and enhance search functionalities.
-Modify styling in the src/styles directory to personalize the look and feel of the website.
-Add or remove components as needed to improve user experience.
+- Customize the content in the src directory to match your real estate agency's listings and agent profiles.
+- Implement backend integration (if applicable) to fetch real-time property data and enhance search functionalities.
+- Modify styling in the components directory to personalize the look and feel of the website.
+- Add or remove components as needed to improve user experience.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and create a pull request.
